@@ -1,1 +1,33 @@
-/* Write your CSS here! */
+body {
+    display: block;
+    margin: auto;
+    max-width: 1000px;
+    font-family: Calibri;
+    background-color: rgba(126, 192, 223, 0.959);
+}
+
+article {
+    margin-left:50px;
+    max-width: 800px;
+}
+
+p {
+    margin-left: 50px;
+    margin-right: 0px;
+}
+
+header {
+    text-align: center;
+}
+footer {
+    text-align: center;
+}
+
+headerImg {
+    margin-right: 100px;
+    float: right;
+}
+
+img {
+    padding: 10px;
+}
